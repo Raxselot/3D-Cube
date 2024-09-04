@@ -54,7 +54,8 @@ Dieses Projekt steht unter der MIT-Lizenz.
 Passe die Datei nach deinen Bedürfnissen an, z.B. füge zusätzliche Details zu Features oder Anweisungen hinzu, wenn nötig.
 
 
+This is how it Should Look :D 
 
-
+![image](https://github.com/user-attachments/assets/e8fdaf96-6a6b-460d-87be-dadfd3fa2809)
 
 
