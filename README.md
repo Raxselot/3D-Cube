@@ -8,7 +8,7 @@ Dieses Projekt enthält eine `SceneInitializer`-Klasse, die eine grundlegende 3D
 - **Lichtquelle**: Eine Richtungslichtquelle beleuchtet die Szene.
 - **Benutzersteuerung**: Mit den OrbitControls kann die Kamera um das Objekt bewegt und gezoomt werden.
 - **Animierter Würfel**: Ein einfacher Würfel rotiert kontinuierlich in der Szene.
-- **Modell-Loader**: Lädt GLTF-Modelle in die Szene.
+- **Modell-Loader**: Lädt GLTF-Modelle in die Szene. # Funktioniert aktuell nicht -_-
 - **Dynamische Größenanpassung**: Passt Renderer und Kamera an, wenn das Browserfenster geändert wird.
 
 ## Installation
@@ -18,19 +18,13 @@ Dieses Projekt enthält eine `SceneInitializer`-Klasse, die eine grundlegende 3D
    git clone https://github.com/Raxselot/3D-Cube
 Installiere die benötigten Abhängigkeiten:
 
-
 npm install
 
 Starte den lokalen Server:
 
 npm start
 
-Verwendung
 
-Stelle sicher, dass du den viewer-Container in deinem HTML-Dokument hast:
-
-
-<div id="viewer"></div>
 Die Szene wird durch Aufruf des SceneInitializer gestartet:
 
 new SceneInitializer();
