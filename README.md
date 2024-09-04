@@ -1,6 +1,6 @@
 # Three.js Scene Initializer
 
-Dieses Projekt enthält eine `SceneInitializer`-Klasse, die eine grundlegende 3D-Szene mit [Three.js](https://threejs.org/) erstellt. Sie beinhaltet Kamera, Renderer, Beleuchtung, Benutzersteuerung und ein animiertes 3D-Objekt (rotierender Würfel). Darüber hinaus kann sie externe 3D-Modelle laden und reagiert dynamisch auf Fenstergrößenänderungen.
+Dieses Projekt enthält eine `SceneInitializer`-Klasse, die eine grundlegende 3D-Szene mit [Three.js](https://threejs.org/) erstellt. Sie beinhaltet Kamera, Renderer, Beleuchtung, Benutzersteuerung und ein animiertes 3D-Objekt (rotierender Würfel). Darüber hinaus kann sie externe 3D-Modelle laden
 
 ## Features
 
@@ -25,7 +25,7 @@ Starte den lokalen Server:
 npm start
 
 
-Die Szene wird durch Aufruf des SceneInitializer gestartet:
+Die Szene wird durch den SceneInitializer gestartet:
 
 new SceneInitializer();
 Modell einbinden
@@ -45,11 +45,9 @@ OrbitControls - Ermöglicht das Bewegen der Kamera durch Benutzerinteraktion
 Lizenz
 Dieses Projekt steht unter der MIT-Lizenz.
 
-Passe die Datei nach deinen Bedürfnissen an, z.B. füge zusätzliche Details zu Features oder Anweisungen hinzu, wenn nötig.
 
 
-This is how it Should Look :D 
+![image](https://github.com/user-attachments/assets/204459ee-fb86-4c42-b4da-3dc0985dc269)
 
-![image](https://github.com/user-attachments/assets/e8fdaf96-6a6b-460d-87be-dadfd3fa2809)
 
 
